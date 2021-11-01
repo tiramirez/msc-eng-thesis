@@ -1,0 +1,46 @@
+# .
+# .gitignore
+
+# Enviroment
+env/
+data/
+
+# Biogeme output files
+*.html
+*.pickle
+*.zip
+*.dat
+*.csv
+headers.py
+
+# Shape Files
+*.cpj
+*.cpg
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shx
+*.shp.sbx
+*.shp.xml
+
+*.mmdb
+*.db
+*.gdoc
+
+
+## Jupyter Notebook
+.ipynb_checkpoints
+__pycache__/
+
+## Environments
+.vscode
+env/
+WIP/
+data/
+
+## ZIP files
+*.zip 
+## images from data
+*.jpg
