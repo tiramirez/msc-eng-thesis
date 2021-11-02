@@ -4,6 +4,14 @@
 * Models 
 * Code
 
+## Instalation
+```
+conda create -p ./env
+conda activate ./env
+pip install biogeme
+conda install -c conda-forge --prefix ./env ipykernel -y
+```
+
 ## See Also
 * Online image-base survey template
 * Thesis Dataset
