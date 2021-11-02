@@ -10,7 +10,7 @@ data/
 *.pickle
 *.zip
 *.dat
-*.csv
+# *.csv
 headers.py
 
 # Shape Files
