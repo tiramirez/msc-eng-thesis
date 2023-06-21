@@ -35,17 +35,12 @@ In the present study, computational and statistical tools are combined to achiev
 
 The perception of Chile's capital has a strong correlation with the distribution of its income. This findings, althought expected, are interesting since the survey had not a single image of Chile. All images were taken from other countries (North America, Europe and Asia) and then the pictures from Santiago are evaluated with the parameters of the trained model. 
 
-<div style="height:400px; width:100%">
-    <div style="float: left; position:relative; height:100%; width:50%; text-align: center">
-        <img src="img/results_distribution_map_safe.jpg" height=100%>
-    </div>
-    <div style="float: left; position:relative; height:100%; width:50%; text-align: center">
-        <img src="img/ref_income_map.jpg" height=100%>
-    </div>
-</div>
+Scores from Model             |  Dist. of Per-capita Income
+:-------------------------:|:-------------------------:
+![](img/results_distribution_map_safe.jpg)  |  ![](img/ref_income_map.jpg)
 
 ## Results: How different car drivers perceive the city in comparison to active mode users?
-<img src="img/results_diff_mobility.jpg"  height="400">
+<img src="img/results_diff_mobility.jpg"  height="300">
 
 ## Results: How different is the perception of men and women?
-<img src="img/results_diff_gender.jpg" height="400">
+<img src="img/results_diff_gender.jpg" height="300">
