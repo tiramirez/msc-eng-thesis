@@ -43,4 +43,4 @@ data/
 ## ZIP files
 *.zip 
 ## images from data
-*.jpg
+data/*.jpg
