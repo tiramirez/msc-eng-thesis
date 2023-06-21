@@ -1,5 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
+## 
+# This code is base on Tensorflows Object Detection demo
+# SOURCE: https://github.com/tensorflow/models/blob/6f6429402e3ff1b02db84e449ce2a550fed59cf3/research/object_detection/colab_tutorials/object_detection_tutorial.ipynb
+
+# conda activate .\env\
 
 # # Imports
 

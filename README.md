@@ -1,8 +1,13 @@
 # msc-eng-thesis
 
 ## Table of Contents
-* Models 
-* Code
+```
+. 
+├───analysis
+├───models
+└───utils
+    └───wekun_object_detection.py
+```
 
 ## Instalation
 ```
@@ -13,8 +18,8 @@ conda install -c conda-forge --prefix ./env ipykernel -y
 ```
 
 ## See Also
-* Online image-base survey template
-* Thesis Dataset
+* [Online image-base survey template](https://github.com/tiramirez/flask-image-based-survey)
+* [Thesis Dataset](https://ricardohurtubia.wordpress.com/2020/07/22/dataset-perception-of-urban-space/)
 *  Publications
 > **Ramírez, T.**, Hurtubia, R., Lobel, H., \& Rossetti, T. (2021). Measuring heterogeneous perception of urban space with massive data and machine learning: An application to safety. Landscape and Urban Planning, 208, 104002.\\ https://doi.org/10.1016/j.landurbplan.2020.104002
 
